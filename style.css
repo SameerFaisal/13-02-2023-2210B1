@@ -1,0 +1,21 @@
+#parent{
+height: 500px;
+width: 100%;
+border: 7px groove purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#one{
+    height: 100px;
+    width: 100px;
+background-color: black;
+}
+
+#two{
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+}
